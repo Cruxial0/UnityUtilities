@@ -1,4 +1,5 @@
-"name": "BuildHelper",
+{
+    "name": "BuildHelper",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [
@@ -12,3 +13,4 @@
     "defineConstraints": [],
     "versionDefines": [],
     "noEngineReferences": false
+}
