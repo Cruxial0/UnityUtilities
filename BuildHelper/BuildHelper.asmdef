@@ -1,11 +1,10 @@
-{
-    "name": "BuildHelper",
+"name": "BuildHelper",
     "rootNamespace": "",
     "references": [],
-    "includePlatforms": [],
-    "excludePlatforms": [
+    "includePlatforms": [
         "Editor"
     ],
+    "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],
@@ -13,4 +12,3 @@
     "defineConstraints": [],
     "versionDefines": [],
     "noEngineReferences": false
-}
