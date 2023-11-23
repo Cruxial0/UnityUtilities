@@ -1,0 +1,7 @@
+﻿{
+  "name": "com.crux.buildhelper",
+  "displayName": "Build Helper",
+  "description": "A simple utility that adds menu items for building to any desktop platform.",
+  "version": "1.0.0",
+  "keywords": ["Build", "Utility", "Testing"]
+}
